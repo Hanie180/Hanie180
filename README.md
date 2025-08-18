@@ -4,23 +4,21 @@ I’m a Sydney-based M.C Business Analytics graduate with a passion for uncoveri
 
 With a strong academic foundation and hands-on experience across **healthcare, fintech, and entertainment platforms**, I’ve contributed to digital transformations, reduced operational risks, and delivered insights from millions of records. 
 
-My academic journey at Macquarie University has been equally rewarding: earning two 1st-place awards for building big data pipelines and delivering strategic recommendations to SnowyHydro on Australia's energy market. 
-
 ---
 
 ## 🎓 Academic Excellence & Technical Foundations
 
 I graduated **Master of Business Analytics** with **Academic Excellence Award (High Distinction)**, where I developed a strong foundation in:
 
-- 📊 **Data Analytics** – from exploratory data analysis to predictive modeling  
-- 🧠 **Machine Learning** – Random Forest, Neural Networks, AdaBoost, K-means  
-- 🗃️ **Big Data & Graph Analytics** – MapReduce, Neo4j, knowledge graphs  
-- 📈 **Data Visualization** – Power BI dashboards, storytelling, stakeholder communication
+- **Data Analytics** – from exploratory data analysis to predictive modeling  
+- **Machine Learning** – Random Forest, Neural Networks, AdaBoost, K-means  
+- **Big Data & Graph Analytics** – MapReduce, Neo4j, knowledge graphs  
+- **Data Visualization** – Power BI dashboards, storytelling, stakeholder communication
 
-🏅 I also won:
-- 🎯 1st Place – *Business Analytics Project* (BUSA8031)  
-  Delivered strategic insights on carbon emissions & bidding behaviour in the National Electricity Market (NEM)
-- 🏆 Highest Achievement – *Big Data (COMP6210)*  
+🏆 I also won:
+- 1st Place – *Business Analytics Project* (BUSA8031)  
+  Delivered strategic insights and recommendations on carbon emissions & bidding behaviour in the National Electricity Market (NEM)
+- Highest Achievement – *Big Data* (COMP6210)
   Built scalable data pipelines, optimized skyline queries, and applied nearest-neighbour algorithms
 
 ---
