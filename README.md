@@ -1,8 +1,8 @@
-# Hi, I'm Hanie 👋 — I empower decisions through data
+# Hi, I'm Hanie 👋 I empower decisions through data
 
 I’m a Sydney-based M.C Business Analytics graduate with a passion for uncovering insights and transforming raw data into real business value.
 
-With a strong academic foundation and hands-on experience across **healthcare, fintech, and entertainment platforms**, I’ve contributed to digital transformations, reduced operational risks, and delivered insights from millions of records. 
+With a **strong academic foundation** and hands-on **experience across healthcare, fintech, and entertainment platforms**, I’ve contributed to digital transformations, reduced operational risks, and delivered insights from millions of records. 
 
 ---
 
