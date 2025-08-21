@@ -16,9 +16,9 @@ I graduated **Master of Business Analytics** with **Academic Excellence Award (H
 - **Data Visualization** – Power BI dashboards, storytelling, stakeholder communication
 
 🏆 I also won:
-- 1st Place – *Industry Case Competition*
+- **1st Place - Industry Case Competition**
   Delivered strategic insights and recommendations on carbon emissions & bidding behaviour in the National Electricity Market (NEM), judged by experts from SnowyHydro.
-- Highest Achiever – *Big Data* (COMP6210)
+- **Highest Achiever - Big Data** (COMP6210)
   Built scalable data pipelines, optimized skyline queries, and applied nearest-neighbour algorithms for real-time analytics scalability.
 
 ---
