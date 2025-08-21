@@ -16,22 +16,18 @@ I graduated **Master of Business Analytics** with **Academic Excellence Award (H
 - **Data Visualization** – Power BI dashboards, storytelling, stakeholder communication
 
 🏆 I also won:
-- 1st Place – *Business Analytics Project* (BUSA8031)  
-  Delivered strategic insights and recommendations on carbon emissions & bidding behaviour in the National Electricity Market (NEM)
-- Highest Achievement – *Big Data* (COMP6210)
-  Built scalable data pipelines, optimized skyline queries, and applied nearest-neighbour algorithms
+- 1st Place – *Industry Case Competition*
+  Delivered strategic insights and recommendations on carbon emissions & bidding behaviour in the National Electricity Market (NEM), judged by experts from SnowyHydro.
+- Highest Achiever – *Big Data* (COMP6210)
+  Built scalable data pipelines, optimized skyline queries, and applied nearest-neighbour algorithms for real-time analytics scalability.
 
 ---
 
 ## 🛠️ Industry Experience
 
-- 💼 **IT Support Analyst @ Ramsay Health Care**  
+- 💼 **Technical Support Analyst @ Ramsay Health Care**  
   Partnered with clinical, operational, and administrative teams to improve workflows and reduce system downtime.  
   Delivered Power BI dashboards and process improvements that enhanced team response efficiency by 25%.
-
-- ✈️ **Network Planning & Revenue Management Intern @ VietjetAir**  
-  Worked on real-world airline analytics projects — including customer segmentation and pricing strategies.  
-  Explored route optimization using **Neo4j Graph Data Science** and developed visual KPIs for airline performance tracking.
 
 ---
 
@@ -48,12 +44,20 @@ I graduated **Master of Business Analytics** with **Academic Excellence Award (H
 
 ---
 
-## 🔧 Skills & Tools
+## 🔧 Skills
 
-- **Languages**: Python, SQL, DAX  
-- **Tools**: Power BI, Excel, Neo4j, Jupyter Notebooks  
-- **Methods**: Forecasting, Clustering, Segmentation, Data Cleaning, Graph Analytics  
-- **Soft Skills**: Communication, stakeholder engagement, problem-solving, cross-functional teamwork
+**Technical Skills:**
+- **Languages**: Python, SQL, DAX, R  
+- **Tools**: Power BI, Excel (Advanced), Jupyter Notebook, RStudio, Visual Studio Code, Studio 3T
+- **Platforms**: Google Cloud, MySQL, Snowflake, Databricks, Hadoop, Neo4j (Graph Data Science)
+- **Methods**: Data Cleaning & Transformation, Big Data Processing, Clustering & Segmentation, Graph Analytics,Forecasting, Predictive Analytics, KPI Dashboards, Data Visualization
+
+**Transferable Skills**: 
+- **Analytical Mindset**: Approach problems with structured thinking and evidence-based reasoning  
+- **Insight Communication**: Skilled in translating complex data into clear, actionable insights for stakeholders  
+- **Business Awareness**: Strong understanding of how data connects to strategic and operational outcomes  
+- **Adaptability & Growth**: Comfortable learning new tools and thriving in dynamic, fast-changing environments  
+- **Collaboration**: Experienced working across technical and non-technical teams to drive alignment and results  
 
 ---
 
