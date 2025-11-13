@@ -6,50 +6,32 @@ My work blends technical skills with practical impact: forecasting unbilled reve
 
 ---
 
-## 💼 What I Do
+## 🏥 Healthcare & RCM Focus
 
-I analyse hospital revenue, billing, and patient activity across multiple sites to bring transparency to complex RCM processes. My recent work includes:
+I’ve worked closely with finance, clinical, and operational teams to improve transparency, accuracy, and efficiency across the RCM process. This includes:
 
-🏥 Identifying revenue leakage and fund-level performance variation
-
-📈 Forecasting unbilled revenue and patient flow with >90% accuracy
-
-⚡ Automating Power BI dashboards that cut manual reporting by 40%
-
-🤝 Partnering with finance, operations, and clinical teams to accelerate the discharge-to-bill cycle
-
+• Analysing fund performance variation and billing inconsistencies across hospitals
+• Modelling patient flow and unbilled revenue with >90% accuracy
+• Providing real-time visibility of payor trends, aged debt, and DRG category performance
+• Reducing manual reporting time by 40% through automated Power BI builds
 My goal is always the same: make healthcare more efficient, financially sustainable, and easier to navigate for the people working in it.
 
 ## 🧠 Technical Strengths
 
-I design analytics solutions end-to-end — from raw data to predictive models to polished dashboards.
+I design analytics solutions end-to-end — from cleaning and modelling data to building predictive models and visual dashboards.
+My core toolkit includes Python, SQL, DAX (Power BI), R, TM1, BigQuery, and Snowflake, with experience integrating FinBI, Meditech, and TM1 datasets.
 
-*Languages:* Python, SQL, DAX, R
-*Tools:* Power BI, Tableau, Excel, TM1, Studio 3T
-*Platforms:* Google Cloud, BigQuery, Snowflake, MySQL
-*Methods:* RCM analytics, unbilled revenue modelling, DRG analysis, forecasting, machine learning, KPI dashboards, data governance
+## 🌱 What I Bring
 
-## 🌱 How I Work
-
-- Structured thinker who turns ambiguity into clear steps
-- Strong at translating complex data into insights stakeholders actually use
-- Collaborative across finance, clinical, and operational teams
-- Always learning, especially in healthcare systems and scalable analytics
+I combine structured analytical thinking with a strong stakeholder lens, translating complex datasets into insights clinicians, finance managers, and operational leaders can act on. My background in customer support has shaped my strength in communication, clarity, and cross-functional collaboration.
 
 ## 🎓 Academic Foundation
 
-Master of Business Analytics (High Distinction) — Macquarie University
-
-🏆 Winner, Industry Case Competition (SnowyHydro judges)
-
-🏅 Highest Achiever in Big Data
-
-🔬 Built machine learning models, big data pipelines, and graph analytics projects now applied directly to my work in healthcare
+I hold a Master of Business Analytics (High Distinction) from Macquarie University, with awards for academic excellence and industry case competitions judged by SnowyHydro. My studies strengthened my capability in machine learning, big data processing, graph analytics, and statistical modelling — skills I now apply directly to healthcare operations and financial performance.
 
 ## 📚 Projects & Interests
 
-I enjoy solving operational challenges with data — from modelling unbilled revenue risk to designing KPI dashboards, improving workflow efficiency, and analysing payor trends and DRG performance.
-If it has messy data and real-world impact, I’m there.
+Whether modelling unbilled revenue risk, improving workflow efficiency, or designing KPI dashboards, I enjoy the challenge of turning noisy, messy data into solutions that make healthcare more efficient and patient-centred.
 
 ---
 
