@@ -24,20 +24,17 @@ My goal is always the same: make healthcare more efficient, financially sustaina
 
 I design analytics solutions end-to-end — from raw data to predictive models to polished dashboards.
 
-Languages: Python, SQL, DAX, R
-Tools: Power BI, Tableau, Excel, TM1, Studio 3T
-Platforms: Google Cloud, BigQuery, Snowflake, MySQL
-Methods: RCM analytics, unbilled revenue modelling, DRG analysis, forecasting, machine learning, KPI dashboards, data governance
+*Languages:* Python, SQL, DAX, R
+*Tools:* Power BI, Tableau, Excel, TM1, Studio 3T
+*Platforms:* Google Cloud, BigQuery, Snowflake, MySQL
+*Methods:* RCM analytics, unbilled revenue modelling, DRG analysis, forecasting, machine learning, KPI dashboards, data governance
 
 ## 🌱 How I Work
 
-🎯 Structured thinker who turns ambiguity into clear steps
-
-🗣️ Strong at translating complex data into insights stakeholders actually use
-
-🤝 Collaborative across finance, clinical, and operational teams
-
-🔄 Always learning, especially in healthcare systems and scalable analytics
+- Structured thinker who turns ambiguity into clear steps
+- Strong at translating complex data into insights stakeholders actually use
+- Collaborative across finance, clinical, and operational teams
+- Always learning, especially in healthcare systems and scalable analytics
 
 ## 🎓 Academic Foundation
 
@@ -52,8 +49,8 @@ Master of Business Analytics (High Distinction) — Macquarie University
 ## 📚 Projects & Interests
 
 I enjoy solving operational challenges with data — from modelling unbilled revenue risk to designing KPI dashboards, improving workflow efficiency, and analysing payor trends and DRG performance.
-
 If it has messy data and real-world impact, I’m there.
+
 ---
 
 ## 📌 Highlighted Projects
