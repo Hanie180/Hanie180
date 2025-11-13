@@ -1,34 +1,59 @@
-# Hi, I'm Hanie 👋 I empower decisions through data
+# Hi, I'm Hanie 👋 I turn complex healthcare data into clarity, accuracy, and better financial decisions.
 
-I’m a Sydney-based M.C Business Analytics graduate with a passion for uncovering insights and transforming raw data into real business value.
+I’m a Sydney-based Data & Insights Analyst specialising in Revenue Cycle Management (RCM) and hospital operations. Over the past year, I’ve analysed revenue, billing, and patient activity data across multiple sites to uncover leakage, optimise workflows, and help finance teams make more confident, data-driven decisions.
 
-With a **strong academic foundation** and hands-on **experience across healthcare, fintech, and entertainment platforms**, I’ve contributed to digital transformations, reduced operational risks, and delivered insights from millions of records. 
-
----
-
-## 🎓 Academic Excellence & Technical Foundations
-
-I graduated **Master of Business Analytics** with **Academic Excellence Award (High Distinction)**, where I developed a strong foundation in:
-
-- **Data Analytics** – from exploratory data analysis to predictive modeling  
-- **Machine Learning** – Random Forest, Neural Networks, AdaBoost, K-means  
-- **Big Data & Graph Analytics** – MapReduce, Neo4j, knowledge graphs  
-- **Data Visualization** – Power BI dashboards, storytelling, stakeholder communication
-
-🏆 I also won:
-- **1st Place - Industry Case Competition**
-  Delivered strategic insights and recommendations on carbon emissions & bidding behaviour in the National Electricity Market (NEM), judged by experts from SnowyHydro.
-- **Highest Achiever - Big Data** (COMP6210)
-  Built scalable data pipelines, optimized skyline queries, and applied nearest-neighbour algorithms for real-time analytics scalability.
+My work blends technical skills with practical impact: forecasting unbilled revenue, building automated KPI dashboards, and improving the discharge-to-bill cycle through clear, actionable insights.
 
 ---
 
-## 🛠️ Industry Experience
+## 💼 What I Do
 
-- 💼 **Technical Support Analyst @ Ramsay Health Care**  
-  Partnered with clinical, operational, and administrative teams to improve workflows and reduce system downtime.  
-  Delivered Power BI dashboards and process improvements that enhanced team response efficiency by 25%.
+I analyse hospital revenue, billing, and patient activity across multiple sites to bring transparency to complex RCM processes. My recent work includes:
 
+🏥 Identifying revenue leakage and fund-level performance variation
+
+📈 Forecasting unbilled revenue and patient flow with >90% accuracy
+
+⚡ Automating Power BI dashboards that cut manual reporting by 40%
+
+🤝 Partnering with finance, operations, and clinical teams to accelerate the discharge-to-bill cycle
+
+My goal is always the same: make healthcare more efficient, financially sustainable, and easier to navigate for the people working in it.
+
+## 🧠 Technical Strengths
+
+I design analytics solutions end-to-end — from raw data to predictive models to polished dashboards.
+
+Languages: Python, SQL, DAX, R
+Tools: Power BI, Tableau, Excel, TM1, Studio 3T
+Platforms: Google Cloud, BigQuery, Snowflake, MySQL
+Methods: RCM analytics, unbilled revenue modelling, DRG analysis, forecasting, machine learning, KPI dashboards, data governance
+
+## 🌱 How I Work
+
+🎯 Structured thinker who turns ambiguity into clear steps
+
+🗣️ Strong at translating complex data into insights stakeholders actually use
+
+🤝 Collaborative across finance, clinical, and operational teams
+
+🔄 Always learning, especially in healthcare systems and scalable analytics
+
+## 🎓 Academic Foundation
+
+Master of Business Analytics (High Distinction) — Macquarie University
+
+🏆 Winner, Industry Case Competition (SnowyHydro judges)
+
+🏅 Highest Achiever in Big Data
+
+🔬 Built machine learning models, big data pipelines, and graph analytics projects now applied directly to my work in healthcare
+
+## 📚 Projects & Interests
+
+I enjoy solving operational challenges with data — from modelling unbilled revenue risk to designing KPI dashboards, improving workflow efficiency, and analysing payor trends and DRG performance.
+
+If it has messy data and real-world impact, I’m there.
 ---
 
 ## 📌 Highlighted Projects
@@ -44,25 +69,7 @@ I graduated **Master of Business Analytics** with **Academic Excellence Award (H
 
 ---
 
-## 🔧 Skills
-
-**Technical Skills:**
-- **Languages**: Python, SQL, DAX, R  
-- **Tools**: Power BI, Excel (Advanced), Jupyter Notebook, RStudio, Visual Studio Code, Studio 3T
-- **Platforms**: Google Cloud, MySQL, Snowflake, Databricks, Hadoop, Neo4j (Graph Data Science)
-- **Methods**: Data Cleaning & Transformation, Big Data Processing, Clustering & Segmentation, Graph Analytics,Forecasting, Predictive Analytics, KPI Dashboards, Data Visualization
-
-**Transferable Skills**: 
-- **Analytical Mindset**: Approach problems with structured thinking and evidence-based reasoning  
-- **Insight Communication**: Skilled in translating complex data into clear, actionable insights for stakeholders  
-- **Business Awareness**: Strong understanding of how data connects to strategic and operational outcomes  
-- **Adaptability & Growth**: Comfortable learning new tools and thriving in dynamic, fast-changing environments  
-- **Collaboration**: Experienced working across technical and non-technical teams to drive alignment and results  
-
----
-
 ## 📫 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/haniele)
-
+- [LinkedIn](https://linkedin.com/in/haianhle180)
 Let’s turn data into better decisions. 🚀
