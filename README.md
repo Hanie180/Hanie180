@@ -10,13 +10,10 @@ My work blends technical skills with practical impact: forecasting unbilled reve
 
 I’ve worked closely with finance, clinical, and operational teams to improve transparency, accuracy, and efficiency across the RCM process. This includes:
 
-• Analysing fund performance variation and billing inconsistencies across hospitals
-
-• Modelling patient flow and unbilled revenue with >90% accuracy
-
-• Providing real-time visibility of payor trends, aged debt, and DRG category performance
-
-• Reducing manual reporting time by 40% through automated Power BI builds
+- Analysing fund performance variation and billing inconsistencies across hospitals
+- Modelling patient flow and unbilled revenue with >90% accuracy
+- Providing real-time visibility of payor trends, aged debt, and DRG category performance
+- Reducing manual reporting time by 40% through automated Power BI builds
 
 My goal is always the same: make healthcare more efficient, financially sustainable, and easier to navigate for the people working in it.
 
