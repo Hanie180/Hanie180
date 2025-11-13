@@ -1,4 +1,4 @@
-# Hi, I'm Hanie 👋 I turn complex healthcare data into clarity, accuracy, and better financial decisions.
+# Hi, I'm Hanie 👋 I turn complex healthcare data into clarity and better decisions.
 
 I’m a Sydney-based Data & Insights Analyst specialising in Revenue Cycle Management (RCM) and hospital operations. Over the past year, I’ve analysed revenue, billing, and patient activity data across multiple sites to uncover leakage, optimise workflows, and help finance teams make more confident, data-driven decisions.
 
