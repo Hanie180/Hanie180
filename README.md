@@ -1,31 +1,43 @@
 # Hi, I'm Hanie 👋 
-# I turn complex Healthcare Data into Clarity and Better Decisions.
 
-I’m a Sydney-based Data & Insights Analyst specialising in **Revenue Cycle Management (RCM) and hospital operations**. Over the past year, I’ve **analysed revenue, billing, and patient activity data across multiple sites to uncover leakage, optimise workflows**, and help finance teams make more confident, data-driven decisions.
+I’m a Sydney-based **Data & Insights Analyst** specialising in **Revenue Cycle Management (RCM)** and **hospital operations**. Over the past year, I’ve **analysed revenue**, **billing**, and **patient activity data** across multiple sites to **uncover leakage**, **optimise workflows**, and help finance teams make more confident, data-driven decisions.
 
-My work blends technical skills with practical impact: **forecasting unbilled revenue, building automated KPI dashboards, and improving the discharge-to-bill cycle** through clear, actionable insights.
+My work blends technical skills with practical impact: **forecasting unbilled revenue**, **building automated KPI dashboards**, and **improving the discharge-to-bill cycle** through clear, actionable insights.
+
+I’m passionate about building tools, dashboards, and models that make healthcare more efficient, sustainable, and transparent.
+Let’s build meaningful things together. 🚀
 
 ---
 
 ## 🏥 Healthcare & RCM Focus
 
-I’ve worked closely with finance, clinical, and operational teams to improve transparency, accuracy, and efficiency across the RCM process. This includes:
+I’ve worked closely with **finance**, **clinical**, and **operational teams** to translate business questions into actionable insights that **improve hospital performance**. This includes:
 
-- Analysing fund performance variation and billing inconsistencies across hospitals
-- Modelling patient flow and unbilled revenue with >90% accuracy
-- Providing real-time visibility of payor trends, aged debt, and DRG category performance
-- Reducing manual reporting time by 40% through automated Power BI builds
+- **Specialising in RCM** with experience analysing **hospital revenue**, **billing accuracy**, **unbilled charges**, **payor trends**, **DRG groupings**, and **aged debt** across **200+ hospital sites**.
+- **Modelling patient flow and unbilled revenue with >90% accuracy**, enabling proactive cash flow planning and early identification of billing risks.
+- Delivering **real-time visibility of payor trends**, **aged debtor categories**, and **DRG performance**, supporting finance teams in understanding variation and leakage.
+- **Reducing manual reporting time by 40%** through automated **Power BI dashboards**, integrating data from **SQL server, Meditech, TM1**, and other hospital systems.
 
-My goal is always the same: make healthcare more efficient, financially sustainable, and easier to navigate for the people working in it.
+My goal is always the same: **make healthcare more efficient**, **financially sustainable**, and **easier to navigate** for the people working in it.
 
-## 🧠 Technical Strengths
+## 🛠️ Technical Strengths
 
-I design analytics solutions end-to-end — from cleaning and modelling data to building predictive models and visual dashboards.
-My core toolkit includes Python, SQL, DAX (Power BI), R, TM1, BigQuery, and Snowflake, with experience integrating FinBI, Meditech, and TM1 datasets.
+- **Advanced Analytics & Modelling** :
+**Proficient in Python, SQL, and DAX**, building **predictive models**, time-intelligence measures, and scalable data workflows for **unbilled revenue forecasting**, **patient flow**, and **RCM performance insights**.
 
-## 🌱 What I Bring
+- **Business Intelligence & Reporting** :
+Experienced in developing **automated, performance-optimised Power BI dashboards** with strong data models and KPI logic, integrating datasets from **SQL, Meditech, TM1, Google BigQuery, and Snowflake**.
 
-I combine structured analytical thinking with a strong stakeholder lens, translating complex datasets into insights clinicians, finance managers, and operational leaders can act on. My background in customer support has shaped my strength in communication, clarity, and cross-functional collaboration.
+- **Data Storytelling & Healthcare Insighting** :
+Skilled at transforming complex hospital, billing, and operational data into clear, actionable insights for finance, clinical, and operational leaders — ensuring analytics directly supports decisions that improve hospital performance.
+
+- End-to-end analytics development — from data cleaning, modelling, and validation to predictive modelling and dashboard design for healthcare decision-making.
+- Proficient in Python, SQL, and DAX (Power BI), applying advanced calculations, time-intelligence logic, and complex data transformations to support RCM reporting and forecasting.
+- Skilled in building automated Power BI solutions with robust data models, KPI structures, and performance-optimised measures used across finance and operational teams.
+- Experienced in working with Meditech, TM1, Google BigQuery, integrating multi-source hospital datasets into scalable BI products.
+- Strong foundation in predictive analytics and machine learning (Random Forest, AdaBoost, Neural Networks, clustering), used to model unbilled revenue risk, patient flow, and operational performance trends.
+
+
 
 ## 🎓 Academic Foundation
 
