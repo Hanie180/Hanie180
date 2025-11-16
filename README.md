@@ -23,7 +23,7 @@ My goal is always the same: **make healthcare more efficient**, **financially su
 ## 🛠️ Technical Strengths
 
 - **Advanced Analytics & Modelling** :
-**Proficient in Python, SQL, and DAX**, building **predictive models**, time-intelligence measures, and scalable data workflows for **unbilled revenue forecasting**, **patient flow**, and **RCM performance insights**.
+End-to-end analytics development — from data cleaning, modelling, and validation to predictive modelling and dashboard design for healthcare decision-making. **Proficient in Python, SQL, and DAX**, building **predictive models**, time-intelligence measures, and scalable data workflows for **unbilled revenue forecasting**, **patient flow**, and **RCM performance insights**.
 
 - **Business Intelligence & Reporting** :
 Experienced in developing **automated, performance-optimised Power BI dashboards** with strong data models and KPI logic, integrating datasets from **SQL, Meditech, TM1, Google BigQuery, and Snowflake**.
@@ -31,34 +31,17 @@ Experienced in developing **automated, performance-optimised Power BI dashboards
 - **Data Storytelling & Healthcare Insighting** :
 Skilled at transforming complex hospital, billing, and operational data into clear, actionable insights for finance, clinical, and operational leaders — ensuring analytics directly supports decisions that improve hospital performance.
 
-- End-to-end analytics development — from data cleaning, modelling, and validation to predictive modelling and dashboard design for healthcare decision-making.
-- Proficient in Python, SQL, and DAX (Power BI), applying advanced calculations, time-intelligence logic, and complex data transformations to support RCM reporting and forecasting.
-- Skilled in building automated Power BI solutions with robust data models, KPI structures, and performance-optimised measures used across finance and operational teams.
-- Experienced in working with Meditech, TM1, Google BigQuery, integrating multi-source hospital datasets into scalable BI products.
-- Strong foundation in predictive analytics and machine learning (Random Forest, AdaBoost, Neural Networks, clustering), used to model unbilled revenue risk, patient flow, and operational performance trends.
+## 🎓 Academic Foundation & Selected Projects
 
+I hold a Master of Business Analytics from Macquarie University, awarded for Academic Excellence, Highest Achiever in Big Data, and Industry Case Competition Winner (judged by SnowyHydro). My studies strengthened my grounding in statistics, machine learning, big data processing, and graph analytics — capabilities I now apply directly to healthcare reporting and performance insights.
 
+Selected Projects:
 
-## 🎓 Academic Foundation
+NEM Energy Forecasting: Built ML models (Random Forest, Neural Networks, AdaBoost) to forecast national electricity demand.
 
-I hold a Master of Business Analytics (High Distinction) from Macquarie University, with awards for academic excellence and industry case competitions judged by SnowyHydro. My studies strengthened my capability in machine learning, big data processing, graph analytics, and statistical modelling — skills I now apply directly to healthcare operations and financial performance.
+Airline Customer Segmentation: Applied K-means and hierarchical clustering for targeted behavioural segmentation.
 
-## 📚 Projects & Interests
-
-Whether modelling unbilled revenue risk, improving workflow efficiency, or designing KPI dashboards, I enjoy the challenge of turning noisy, messy data into solutions that make healthcare more efficient and patient-centred.
-
----
-
-## 📌 Highlighted Projects
-
-- 🔌 **[NEM Energy Forecasting](https://github.com/haniele/data-insights-portfolio/tree/main/project-nem-energy-analysis)**  
-  Built machine learning models (Random Forest, AdaBoost, Neural Networks) to forecast electricity demand in Australia.
-
-- ✈️ **[Airline Customer Segmentation](https://github.com/haniele/data-insights-portfolio/tree/main/project-airline-segmentation)**  
-  Clustered customers using K-means and Agglomerative Clustering to inform targeted marketing strategies.
-
-- 🏅 **[Olympic Medal MapReduce](https://github.com/haniele/data-insights-portfolio/tree/main/project-bigdata-medal-analysis)**  
-  Used big data techniques to rank athletes and countries from large-scale Olympic datasets.
+Olympic Medals Big Data Analysis: Designed a MapReduce pipeline to process and rank athletes across large-scale datasets.
 
 ---
 
