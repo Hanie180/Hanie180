@@ -1,11 +1,8 @@
 # Hi, I'm Hanie 👋 
 
-I’m a Sydney-based **Data & Insights Analyst** specialising in **Revenue Cycle Management (RCM)** and **hospital operations**. Over the past year, I’ve **analysed revenue**, **billing**, and **patient activity data** across multiple sites to **uncover leakage**, **optimise workflows**, and help finance teams make more confident, data-driven decisions.
+I’m a Sydney-based **Data & Insights Analyst** specialising in **Revenue Cycle Management (RCM)** and **hospital operations**. I analyse **revenue**, **billing**, and **patient activity data** across multiple sites to **uncover revenue leakage**, **optimise workflows**, and support clearer, data-driven decisions.
 
-My work blends technical skills with practical impact: **forecasting unbilled revenue**, **building automated KPI dashboards**, and **improving the discharge-to-bill cycle** through clear, actionable insights.
-
-I’m passionate about building tools, dashboards, and models that make healthcare more efficient, sustainable, and transparent.
-Let’s build meaningful things together. 🚀
+My work focuses on delivering practical impact through **unbilled revenue forecasting**, **automated KPI dashboards**, and improvements to the **discharge-to-bill cycle**. I’m passionate about building analytics tools and models that make healthcare more **efficient**, **sustainable**, and **transparent**. 🚀
 
 ---
 
