@@ -30,7 +30,7 @@ Skilled at transforming complex hospital, billing, and operational data into cle
 
 ## 🎓 Academic Foundation & Selected Projects
 
-I hold a Master of Business Analytics from Macquarie University, awarded for Academic Excellence, Highest Achiever in Big Data, and Industry Case Competition Winner (judged by SnowyHydro). My studies strengthened my grounding in statistics, machine learning, big data processing, and graph analytics — capabilities I now apply directly to healthcare reporting and performance insights.
+I hold a **Master of Business Analytics** from Macquarie University, awarded for **Academic Excellence**, **Highest Achiever in Big Data**, and **Industry Case Competition Winner** (judged by SnowyHydro). My studies strengthened my grounding in **statistics**, **machine learning**, **big data processing**, and **graph analytics** — capabilities I now apply directly to healthcare reporting and performance insights.
 
 Selected Projects:
 
